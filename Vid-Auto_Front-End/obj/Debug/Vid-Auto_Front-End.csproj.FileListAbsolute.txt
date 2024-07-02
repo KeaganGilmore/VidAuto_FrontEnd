@@ -1,9 +1,0 @@
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\bin\Debug\Vid-Auto_Front-End.exe.config
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\bin\Debug\Vid-Auto_Front-End.exe
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\bin\Debug\Vid-Auto_Front-End.pdb
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\obj\Debug\Vid-Auto_Front-End.csproj.AssemblyReference.cache
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\obj\Debug\Vid_Auto_Front_End.Properties.Resources.resources
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\obj\Debug\Vid-Auto_Front-End.csproj.GenerateResource.cache
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\obj\Debug\Vid-Auto_Front-End.csproj.CoreCompileInputs.cache
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\obj\Debug\Vid-Auto_Front-End.exe
-D:\Careers\LXLibrary\Vid-Auto_Front-End\Vid-Auto_Front-End\obj\Debug\Vid-Auto_Front-End.pdb
